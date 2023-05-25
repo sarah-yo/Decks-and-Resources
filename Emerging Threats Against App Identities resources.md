@@ -10,7 +10,7 @@ Article: [How to Scan GitHub Repositories for Secrets & Credentials with Open So
 
 Video: [US Senate Intelligence Committee - Open Hearing: Hearing on the Hack of U.S. Networks by a Foreign Adversary](https://www.intelligence.senate.gov/hearings/open-hearing-hearing-hack-us-networks-foreign-adversary)
 
-##Attack Simulation and Threat Hunting
+### Attack Simulation and Threat Hunting
 
 [Simulating risk detections in Azure AD Identity Protection](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-simulate-risk)
 
@@ -23,7 +23,7 @@ Video: [US Senate Intelligence Committee - Open Hearing: Hearing on the Hack of 
 [Everything about Service Principals, Applications, and API Permissions | Microsoft 365 Security](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
 
 
-##Auditing/Security Controls
+### Auditing/Security Controls
 
 [SpectreOps: Audit app roles](https://gist.github.com/andyrobbins/7c3dd62e6ed8678c97df9565ff3523fb)
 
