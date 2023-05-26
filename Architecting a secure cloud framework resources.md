@@ -8,6 +8,8 @@
 
 [SUPER BRAND NEW: Defender for APIs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-apis-introduction)
 
+[Defender for API lab](https://learn.microsoft.com/en-us/users/learn-live/collections/0714ikjd17p8o6?wt.mc_id=build23_lab_collection_azuremktg_LAB161)
+
 [Defender for Cloud Security Posture Management (CPSM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management)
 
 ## Azure security architecture assessments
