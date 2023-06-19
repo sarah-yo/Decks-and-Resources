@@ -60,8 +60,4 @@
 
 [Microsoft cloud security benchmarks](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
-## Industry standards
-[Center for Internet Security Critical Controls](https://www.cisecurity.org/controls)
-
-[NIST 800-53 Security and Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 
