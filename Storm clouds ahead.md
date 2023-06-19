@@ -5,6 +5,8 @@
 
 
 ## Data Security
+[Microsoft Purview Overview](https://techcommunity.microsoft.com/t5/fasttrack-blog/microsoft-purview-secures-your-most-important-asset-your-data/ba-p/3679909)
+
 [MS Secure - Data security for today’s world](https://secure.microsoft.com/en-US/sessions/1d5d8339-c04f-41be-8d9c-965d27fc3023)
 
 [MS Secure - Leverage AI/ML to automate data security across your data estate](https://secure.microsoft.com/en-US/sessions/89c0fa7d-6e49-4275-91bd-2d4f4a7bf781?source=sessions)
