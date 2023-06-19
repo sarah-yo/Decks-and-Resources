@@ -47,6 +47,8 @@
 
 ## AI Security
 
+[Microsoft AI security risk assessment framework](https://www.microsoft.com/en-us/security/blog/2021/12/09/best-practices-for-ai-security-risk-management/)
+
 [Book - Not with a Bug, But with a Sticker: Attacks on Machine Learning Systems and What To Do About Them](https://www.amazon.nl/Not-Bug-But-Sticker-Learning/dp/1119883989/ref=sr_1_1?keywords=not+with+a+bug+but+with+a+sticker&qid=1687152081&sr=8-1)
 
 [NIST - Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf)
