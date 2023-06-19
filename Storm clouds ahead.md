@@ -6,10 +6,15 @@
 
 ## Data Security
 [MS Secure - Data security for today’s world](https://secure.microsoft.com/en-US/sessions/1d5d8339-c04f-41be-8d9c-965d27fc3023)
+
 [MS Secure - Leverage AI/ML to automate data security across your data estate](https://secure.microsoft.com/en-US/sessions/89c0fa7d-6e49-4275-91bd-2d4f4a7bf781?source=sessions)
+
 [MS Secure - Simplify the lifecycle of sensitive data](https://secure.microsoft.com/en-US/sessions/e37992e0-cfb7-4568-8e11-13cea41cfb3f?source=sessions)
+
 [MS Secure - Simplify the lifecycle of sensitive data](https://secure.microsoft.com/en-US/sessions/e37992e0-cfb7-4568-8e11-13cea41cfb3f?source=sessions)
+
 [MS Secure - A better way to manage your regulatory compliance](https://secure.microsoft.com/en-US/sessions/d44a09ea-3d92-486d-8e08-7e14596f1518?source=sessions)
+
 
 ## CPSM
 
