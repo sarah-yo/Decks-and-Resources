@@ -20,6 +20,11 @@
 
 [Defender for Cloud Security Posture Management (CPSM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management)
 
+[MS Secure - Implementing a CNAPP strategy to embed security from code to cloud](https://secure.microsoft.com/en-US/sessions/2a8afe9a-9938-418a-be23-00e98fafe9ae?source=sessions)
+
+[MS Secure - Protect multicloud environments with cloud-native security innovations](https://secure.microsoft.com/en-US/sessions/75bc4889-e6ad-44f3-a0e4-cf1b8416a67d?source=sessions)
+
+
 ## Developer Security
 
 [Download the Defender for DevOps public preview](https://aka.ms/DfDPreviewFeedback)
