@@ -11,8 +11,6 @@
 
 [MS Secure - Simplify the lifecycle of sensitive data](https://secure.microsoft.com/en-US/sessions/e37992e0-cfb7-4568-8e11-13cea41cfb3f?source=sessions)
 
-[MS Secure - Simplify the lifecycle of sensitive data](https://secure.microsoft.com/en-US/sessions/e37992e0-cfb7-4568-8e11-13cea41cfb3f?source=sessions)
-
 [MS Secure - A better way to manage your regulatory compliance](https://secure.microsoft.com/en-US/sessions/d44a09ea-3d92-486d-8e08-7e14596f1518?source=sessions)
 
 
