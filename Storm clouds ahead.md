@@ -37,7 +37,7 @@
 
 [MS Build - Build Secure Applications with External IDs in Microsoft Entra](https://aka.ms/MSBuildBRK261)
 
-[MS Build - Secure Container Deploymentson AKS with OSS Tools](https://aka.ms/BRK264H)
+[MS Build - Secure Container Deployments on AKS with OSS Tools](https://aka.ms/BRK264H)
 
 
 ## AI
