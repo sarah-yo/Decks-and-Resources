@@ -40,11 +40,13 @@
 [MS Build - Secure Container Deployments on AKS with OSS Tools](https://aka.ms/BRK264H)
 
 
+## Incident Response
+
+[Microsoft Incident Response Retainer](https://www.microsoft.com/en-us/security/blog/2023/03/27/microsoft-incident-response-retainer-is-generally-available/)
+
+
 ## AI
 
-
-
-## Incident Response
 
 
 ## Great Azure security architecture stuff
