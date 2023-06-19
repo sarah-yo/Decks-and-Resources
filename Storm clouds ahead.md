@@ -31,12 +31,17 @@
 
 [SUPER BRAND NEW: Defender for APIs](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-apis-introduction)
 
-[Defender for API lab](https://learn.microsoft.com/en-us/users/learn-live/collections/0714ikjd17p8o6?wt.mc_id=build23_lab_collection_azuremktg_LAB161)
+[Defender for APIs lab](https://learn.microsoft.com/en-us/users/learn-live/collections/0714ikjd17p8o6?wt.mc_id=build23_lab_collection_azuremktg_LAB161)
+
+[MS Build - Ship-It safely with GitHub Advanced Security](https://aka.ms/ship-it-safely)
+
+[MS Build - Build Secure Applications with External IDs in Microsoft Entra](https://aka.ms/MSBuildBRK261)
+
+[MS Build - Secure Container Deploymentson AKS with OSS Tools](https://aka.ms/BRK264H)
+
 
 ## AI
 
-
-## Defender things for applications
 
 
 ## Incident Response
