@@ -10,7 +10,5 @@
 
 • [Technical write up of pirating the Dreamcast’s Mil-CD](http://wololo.net/2012/11/12/sega-dreamcast-how-its-security-works-and-how-it-was-hacked/)
 
-• [Dreamcast pirates made the console legendary](https://medium.com/@michaelgapper/land-of-the-free-467f0eb2f395)
-
 • [An in-depth write up of the Pokémon Red/Blue Missingno. glitch](https://www.smogon.com/smog/issue27/glitch)
 
