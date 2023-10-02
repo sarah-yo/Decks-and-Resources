@@ -18,3 +18,6 @@
 
 ## Most books by Sidney Dekker about safety culture
 - [Books - Sidney Dekker](https://sidneydekker.com/books/)
+
+## Other good reads
+- [Safety management system basics](https://www.casa.gov.au/sites/default/files/2021-06/safety-management-systems-book-1-safety-management-system-basics.pdf)
