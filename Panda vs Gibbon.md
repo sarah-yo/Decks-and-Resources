@@ -5,7 +5,9 @@
 
 ## AI architecture
 [AI Shared Responsbilty Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai)
+
 [Best practices for AI security risk management](https://www.microsoft.com/en-us/security/blog/2021/12/09/best-practices-for-ai-security-risk-management/)
+
 [Microsoft Cybersecurity Reference Architectures (includes AI!)](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra?source=recommendations)
 
 ## A very accessible book on AI attacks
