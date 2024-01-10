@@ -1,5 +1,8 @@
 # Panda vs Gibbon is the least of your worries - useful resources
 
+## NIST Adversarial Machine Learning Whitepaper
+[Adversarial Machine Learning - A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)
+
 ## AI security architecture
 [AI Shared Responsbilty Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai)
 
