@@ -40,10 +40,13 @@ Everything from my Experts Live Switzerland 2026 keynote: the stories, where the
 ## The new insider
 
 ### Models as insider risks
+- [Satya Nadella: Models as insider risks in the super intelligence era](https://snscratchpad.com/posts/models-as-insider-risks/)
+- [Microsoft Security: Agents are your newest insiders. Security must move at their speed](https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/)
 - [The Next Web: Satya Nadella says companies should treat AI models as insider risks](https://thenextweb.com/news/nadella-ai-models-insider-risks-emergency-brake)
 - [Wccftech: Nadella says AI models should be assumed compromised from the start](https://wccftech.com/microsoft-ceo-nadella-says-ai-models-should-be-assumed-compromised-from-the-start-wants-humans-able-to-pause-them-mid-task/)
 
 ### Storm-0940: AI agents, stolen keys, 2,900 attempts a minute
+- [Microsoft Threat Intelligence: AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/)
 - [SecurityWeek: China APT uses AI pentest tool Artex in ConnectWise attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
 - [The Register: Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants](https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687)
 - [CSO Online: China-linked hackers used agentic AI in attack on 2,250 Microsoft 365 tenants](https://csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html)
