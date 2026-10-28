@@ -55,6 +55,7 @@ Everything from my Experts Live Switzerland 2026 keynote: the stories, where the
 
 ## Other good reads
 - [OWASP Top 10 for LLM and GenAI applications](https://genai.owasp.org/llm-top-10/)
+- [Video: Black Hat USA 2026 - The 'Breaking' News: The OpenAI-Hugging Face Incident](https://www.youtube.com/watch?v=87DyyMV0kCY)
 
 ## Microsoft security research
 - [Observability for AI systems: strengthening visibility for proactive risk detection](https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/)
