@@ -2,6 +2,9 @@
 
 Everything from my Experts Live Switzerland 2026 keynote: the stories, where they came from, and what to go and read next.
 
+## The opener
+- [Video: LGTM (Looks Good to Me) - Claude Opus 5.5 music video, by Degenerative Pixels](https://www.youtube.com/watch?v=3TNpOD6bov8)
+
 ## The world shifted
 
 ### Redundancies
